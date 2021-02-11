@@ -1,6 +1,6 @@
 .box
 {       
-    display: inline-b;
+    display: inline-block;
     text-align: center;
     background-color: #c2ebeb;
     box-shadow: 6px 6px 1px #002929;
