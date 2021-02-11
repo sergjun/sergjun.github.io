@@ -1,7 +1,7 @@
 .button 
 {
         display: inline-block;
-        background-color: #FFFAFA;
+        background-color: #eff6fb;
         height: 60px;
         line-height: 60px;
         padding-left: 20px;
@@ -10,7 +10,7 @@
         border-radius: 10px;
         transition: transform 200ms cubic-bezier(.48,1.62,.54,1.7);
         font-size: 20px;
-        color:black;
+        color:#091720;
         font-weight: 500;
         margin-right: 20px;
         text-decoration: none;
