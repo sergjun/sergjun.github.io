@@ -1,0 +1,26 @@
+.tec-skills
+{   
+    display: flex;
+    font-family: Poppins, sans-serif;
+    color: #0D2230;
+    font-size: 25px;
+
+}
+
+.tec-skills .icon 
+
+{
+    margin-right: 25px;
+
+}
+
+.tec-skills .right
+
+{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+
+}
