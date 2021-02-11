@@ -1,4 +1,4 @@
-#box
+.box
 {       
     display: inline-block;
     text-align: center;
@@ -9,9 +9,10 @@
 
 }
 
-#box h1
+.box .title
 
 {
-  margin-bottom: 10px;
+  
+    margin-bottom: 10px;
 
 }
