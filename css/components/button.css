@@ -6,11 +6,11 @@
         line-height: 60px;
         padding-left: 20px;
         padding-right: 20px;
-        box-shadow: 6px 6px 1px #0d2230;
+        box-shadow: 6px 6px 1px #7c5869;
         border-radius: 10px;
         transition: transform 200ms cubic-bezier(.48,1.62,.54,1.7);
         font-size: 20px;
-        color:#091720;
+        color:#7c5869;
         font-weight: 500;
         margin-right: 20px;
         text-decoration: none;

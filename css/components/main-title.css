@@ -3,15 +3,17 @@
     
     font-family: Poppins, sans-serif;
     font-size: 40px;
-    color: #0D2230;
-    text-shadow: 1px 1px 0 #0d2230;
+    color: #7c5869;
+    text-shadow: 1px 1px 0 #7c5869;
     
 }
 
 .main-title.-second 
 {
-    color:#091720;
+    color:#7c5869;
     text-shadow: none;
     text-align: center;
+    
+    
 
 }

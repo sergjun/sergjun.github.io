@@ -2,14 +2,15 @@
 {
 
     background-image: url(../../assets/img/background\ portfolio.png);
-    background-repeat: no-repeat;
-    background-size: 100%;
+    
+    background-repeat: repeat;
     height: 600px;
     border-bottom: 10px solid black;
     padding-top: 115px;
     padding-left: 90px;
     
 }
+
 
 
 .banner .wrapper {

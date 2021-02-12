@@ -2,7 +2,7 @@
 {  
     display: inline-flex;
     align-items: center;
-    color: #091720;
+    color: #7c5869;
     font-size: 20px;   
     font-weight: 500;
     text-decoration: none;
@@ -13,7 +13,7 @@
 .action::before 
 {
     content: "";
-    background-color: #091720;
+    background-color: #5a404c;
     width: 10px;
     height: 10px;
     margin-right: 10px;
