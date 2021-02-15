@@ -1,4 +1,4 @@
-.box
+.main-box
 {       
     display: inline-block;
     text-align: center;
@@ -9,7 +9,7 @@
 
 }
 
-.box .title
+.main-box .main-title
 
 {
     
