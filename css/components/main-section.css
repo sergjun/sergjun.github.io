@@ -1,4 +1,4 @@
-.section 
+.main-section 
 {
 
     background-color: #eff6fb;
@@ -9,7 +9,7 @@
 }
 
 
-.section .main-title 
+.main-section .main-title 
 
 {
 
@@ -18,7 +18,7 @@
 
 }
 
-.section.-bgblack
+.main-section.-bgblack
 
 {
 
