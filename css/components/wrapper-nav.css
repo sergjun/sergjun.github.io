@@ -4,11 +4,11 @@
 {
 
     display:flex;
-    flex-direction: column;
-    align-items: center;
-    padding-left: 500px;
+    flex-direction:column;
+    align-items:center;
     
+    position: relative;
     
-    
+     
 
 }

@@ -18,11 +18,12 @@
 
 }
 
-.main-section.-bgblack
+.main-section.-bgpurple
 
 {
 
-    background-color:black;
-    border-bottom: 10px solid #eff6fb
+    background-color:#9A7197;
+    border-bottom: 10px solid #eff6fb;
+    
 
 }

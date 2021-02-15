@@ -13,7 +13,15 @@
     color:#7c5869;
     text-shadow: none;
     text-align: center;
+
+}
+
+.main-title.-third
+
+{
     
-    
+    text-shadow: black;
+    text-align: center;
+    color: black;
 
 }
